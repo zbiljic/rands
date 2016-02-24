@@ -2,7 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/zbiljic/rands?status.svg)](https://godoc.org/github.com/zbiljic/rands)
 
-Package rands provides functions for generating random strings in Go.
+Package rands provides functions for generating random strings in Go (golang).
 
 It combines [math/rand][] with [crypto/rand][] for acceptable ratio of performance/security.
 
