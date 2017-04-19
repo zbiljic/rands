@@ -1,6 +1,7 @@
 # rands
 
 [![GoDoc](https://godoc.org/github.com/zbiljic/rands?status.svg)](https://godoc.org/github.com/zbiljic/rands)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/zbiljic/rands/master/LICENSE)
 
 Package rands provides functions for generating random strings in Go (golang).
 
@@ -30,4 +31,4 @@ See the [reference][] for more info.
 
 ---
 
-Copyright © 2016 Nemanja Zbiljić
+Copyright © 2017 Nemanja Zbiljić
